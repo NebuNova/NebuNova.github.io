@@ -1,0 +1,54 @@
+/* Accessibility: Colors are chosen for sufficient contrast and readability */
+
+/* Body */
+.body-class {
+  background-color: #dbdbff; /* Subtle background color */
+}
+
+/* Header */
+.header-class {
+  background-color: #87c3ff; /* Contrasting background color */
+  color: #ffffff; /* Font color for better visibility */
+}
+
+/* Navigation */
+.nav-class {
+  background-color: hsl(274, 100%, 78%); /* Different background color */
+  color: #ffffff; /* Different font color */
+}
+
+/* Titles */
+.title-class {
+  color: #0063c6; /* Distinct color */
+}
+.section-title-class {
+  color: #343a40; /* Distinct color */
+}
+
+/* Text */
+.text-class {
+  color: #333333; /* Font color that contrasts well with the background color */
+}
+
+/* Images */
+.image-class {
+  border: 20px solid #002244; /* Border with a color that complements the overall design */
+}
+
+/* Form and Buttons */
+.form-class input,
+.form-class select,
+.form-class textarea {
+  background-color: hwb(289 80% 0%); /* Cohesive background color */
+  color: #495057; /* Cohesive font color */
+}
+.button-class {
+  background-color: #e5b9ff; /* Cohesive background color */
+  color: #ffffff; /* Cohesive font color */
+}
+
+/* Footer */
+.footer-class {
+  background-color: #fb82ff; /* Distinct background color */
+  color: #ffffff; /* Distinct font color */
+}
